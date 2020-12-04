@@ -1,0 +1,11 @@
+{
+  "exercises":[
+    {
+      "name": "Push Ups",
+      "difficulty": "Moderate",
+      "targetedArea": "Chest",
+      "tip": "Do not flare elbows"
+    }
+  ],
+  "status": "OK"
+}
