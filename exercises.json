@@ -11,7 +11,7 @@
     {
       "name": "Mountain Climbers",
       "description": "The mountain climber is a classic ab exercise.",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/mountain_climbers",
       "difficulty": "Hard",
       "targetedArea": "Abs",
       "tip": "Keep back straight."
