@@ -3,6 +3,7 @@
     {
       "name": "Push Ups",
       "description": "The push up may just be the perfect exercise that builds both upper-body and core strength.",
+      "image": "https://pixabay.com/images/id-1685977",
       "difficulty": "Moderate",
       "targetedArea": "Chest",
       "tip": "Do not flare elbows"
@@ -10,6 +11,7 @@
     {
       "name": "Mountain Climbers",
       "description": "The mountain climber is a classic ab exercise.",
+      "image": "",
       "difficulty": "Hard",
       "targetedArea": "Abs",
       "tip": "Keep back straight."
