@@ -15,6 +15,22 @@
       "difficulty": "Hard",
       "targetedArea": "Abs",
       "tip": "Keep back straight."
+    },
+    {
+      "name": "Supermans",
+      "description": "The superman is one of the best home exercises for home upper and lower back muscles..",
+      "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/mountain_climbers.jpg",
+      "difficulty": "Moderate",
+      "targetedArea": "Lower Back",
+      "tip": "Straighten arms and legs."
+    },
+    {
+      "name": "Squat Jumps",
+      "description": "The squat jumps are great to keep your heart rate up.",
+      "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/mountain_climbers.jpg",
+      "difficulty": "Hard",
+      "targetedArea": "Legs",
+      "tip": "Keep chest up"
     }
   ],
   "status": "OK"
