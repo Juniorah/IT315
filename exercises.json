@@ -32,18 +32,27 @@
       "description": "The squat jumps are great to keep your heart rate up.",
       "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/squat_jumps.jpg",
       "difficulty": "Hard",
-      "targetedArea": "Legs",
+      "targetedArea": "Glutes, Hamstring, Quadriceps",
       "tip": "Keep chest up",
       "url": "https://www.youtube.com/watch?v=U4s4mEQ5VqU"
     },
     {
       "name": "Sit Ups",
       "description": "Sit ups is an abdominal endurance training exercise to strengthen abdominal muscles.",
-      "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/sit_jumps.jpg",
+      "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/sit_ups.jpg",
       "difficulty": "Medium",
       "targetedArea": "Abs",
       "tip": "Control your breathing",
       "url": "https://www.youtube.com/watch?v=jDwoBqPH0jk"
+    },
+    {
+      "name": "Reverse Lunges",
+      "description": "Lunges can help you develop lower-body strength and endurance.",
+      "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/reverse_lunges.jpg",
+      "difficulty": "Medium",
+      "targetedArea": "Glutes, Hamstring, Quadriceps",
+      "tip": "Go down until your knees barely touch the ground.",
+      "url": "https://www.youtube.com/watch?v=xrPteyQLGAo"
     }
   ],
   "status": "OK"
