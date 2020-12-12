@@ -32,7 +32,7 @@
       "description": "The squat jumps are great to keep your heart rate up.",
       "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/squat_jumps.jpg",
       "difficulty": "Hard",
-      "targetedArea": "Glutes, Hamstring, Quadriceps",
+      "targetedArea": "Legs",
       "tip": "Keep chest up",
       "url": "https://www.youtube.com/watch?v=U4s4mEQ5VqU"
     },
@@ -50,7 +50,7 @@
       "description": "Lunges can help you develop lower-body strength and endurance.",
       "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/reverse_lunges.jpg",
       "difficulty": "Medium",
-      "targetedArea": "Glutes, Hamstring, Quadriceps",
+      "targetedArea": "Legs",
       "tip": "Go down until your knees barely touch the ground.",
       "url": "https://www.youtube.com/watch?v=xrPteyQLGAo"
     }
