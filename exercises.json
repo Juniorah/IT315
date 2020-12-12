@@ -35,6 +35,15 @@
       "targetedArea": "Legs",
       "tip": "Keep chest up",
       "url": "https://www.youtube.com/watch?v=U4s4mEQ5VqU"
+    },
+    {
+      "name": "Sit Ups",
+      "description": "Sit ups is an abdominal endurance training exercise to strengthen abdominal muscles.,
+      "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/squat_jumps.jpg",
+      "difficulty": "Medium",
+      "targetedArea": "Abs",
+      "tip": "Keep chest up",
+      "url": "https://www.youtube.com/watch?v=jDwoBqPH0jk"
     }
   ],
   "status": "OK"
