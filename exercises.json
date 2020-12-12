@@ -7,6 +7,7 @@
       "difficulty": "Moderate",
       "targetedArea": "Chest",
       "tip": "Do not flare elbows"
+      "url": "https://www.youtube.com/watch?v=Eh00_rniF8E"
     },
     {
       "name": "Mountain Climbers",
@@ -15,6 +16,7 @@
       "difficulty": "Hard",
       "targetedArea": "Abs",
       "tip": "Keep back straight."
+      "url": "https://www.youtube.com/watch?v=nmwgirgXLYM"
     },
     {
       "name": "Supermans",
@@ -22,7 +24,8 @@
       "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/supermans.jpg",
       "difficulty": "Moderate",
       "targetedArea": "Lower Back",
-      "tip": "Straighten arms and legs."
+      "tip": "Control the movement on the way down."
+      "url": "https://www.youtube.com/watch?v=z6PJMT2y8GQ"
     },
     {
       "name": "Squat Jumps",
@@ -31,6 +34,7 @@
       "difficulty": "Hard",
       "targetedArea": "Legs",
       "tip": "Keep chest up"
+      "url": "https://www.youtube.com/watch?v=U4s4mEQ5VqU"
     }
   ],
   "status": "OK"
