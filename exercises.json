@@ -6,7 +6,7 @@
       "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/sport-1685977_1920.jpg",
       "difficulty": "Moderate",
       "targetedArea": "Chest",
-      "tip": "Do not flare elbows"
+      "tip": "Do not flare elbows",
       "url": "https://www.youtube.com/watch?v=Eh00_rniF8E"
     },
     {
@@ -15,7 +15,7 @@
       "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/mountain_climbers.jpg",
       "difficulty": "Hard",
       "targetedArea": "Abs",
-      "tip": "Keep back straight."
+      "tip": "Keep back straight.",
       "url": "https://www.youtube.com/watch?v=nmwgirgXLYM"
     },
     {
@@ -24,7 +24,7 @@
       "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/supermans.jpg",
       "difficulty": "Moderate",
       "targetedArea": "Lower Back",
-      "tip": "Control the movement on the way down."
+      "tip": "Control the movement on the way down.",
       "url": "https://www.youtube.com/watch?v=z6PJMT2y8GQ"
     },
     {
@@ -33,7 +33,7 @@
       "image": "https://raw.githubusercontent.com/Juniorah/IT315/main/squat_jumps.jpg",
       "difficulty": "Hard",
       "targetedArea": "Legs",
-      "tip": "Keep chest up"
+      "tip": "Keep chest up",
       "url": "https://www.youtube.com/watch?v=U4s4mEQ5VqU"
     }
   ],
